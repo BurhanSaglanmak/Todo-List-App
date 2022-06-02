@@ -1,5 +1,9 @@
 # Todo-List-App
-Todo list
+Todo list uygulaması
+
+-İnput giriş datalarının kayıt edilmesi ve gösterilmesi.
+
+-Tüm listeyi silen ve son  kayıtlı verileri gösteren buton atandı.
 
 
 
