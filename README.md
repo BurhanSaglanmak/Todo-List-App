@@ -1,6 +1,6 @@
 # Todo-List-App
 
-# Todo list uygulaması
+# Todo List Uygulaması
 
 -İnput giriş datalarının kayıt edilmesi ve gösterilmesi.
 
